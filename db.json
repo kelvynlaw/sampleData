@@ -41,6 +41,103 @@
       "name": "Station 13"
     }
   ],
+  "active_calls": [
+    {
+      "id": "1",
+      "name": "Call #1",
+      "timer": "01:25:01"
+    },{
+      "id": "2",
+      "name": "Call #2",
+      "timer": "01:00:31"
+    },{
+      "id": "3",
+      "name": "Call #3",
+      "timer": "00:00:20"
+    },{
+      "id": "4",
+      "name": "Call #4",
+      "timer": "01:00:01"
+    },{
+      "id": "5",
+      "name": "Call #5",
+      "timer": "01:59:59"
+    },{
+      "id": "6",
+      "name": "Call #6",
+      "timer": "01:25:54"
+    },{
+      "id": "7",
+      "name": "Call #7",
+      "timer": "01:23:54"
+    },{
+      "id": "8",
+      "name": "Call #8",
+      "timer": "01:55:55"
+    },{
+      "id": "9",
+      "name": "Call #9",
+      "timer": "00:49:50"
+    },{
+      "id": "10",
+      "name": "Call #10",
+      "timer": "21:58:01"
+    },{
+      "id": "11",
+      "name": "Call #11",
+      "timer": "01:28:01"
+    },{
+      "id": "12",
+      "name": "Call #12",
+      "timer": "00:21:10"
+    },{
+      "id": "13",
+      "name": "Call #13",
+      "timer": "00:25:01"
+    }
+  ],
+  "buttons": [
+    {
+      "id": "1",
+      "name": "Button 1"
+    },{
+      "id": "2",
+      "name": "Button 2"
+    },{
+      "id": "3",
+      "name": "Button 3"
+    },{
+      "id": "4",
+      "name": "Button 4"
+    },{
+      "id": "5",
+      "name": "Button 5"
+    },{
+      "id": "6",
+      "name": "Button 6"
+    },{
+      "id": "7",
+      "name": "Button 7"
+    },{
+      "id": "8",
+      "name": "Button 8"
+    },{
+      "id": "9",
+      "name": "Button 9"
+    },{
+      "id": "10",
+      "name": "Button 10"
+    },{
+      "id": "11",
+      "name": "Button 11"
+    },{
+      "id": "12",
+      "name": "Button 12"
+    },{
+      "id": "13",
+      "name": "Button 13"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
